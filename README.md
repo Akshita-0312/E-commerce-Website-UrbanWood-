@@ -46,3 +46,12 @@ npm install
 ```bash
 npm run dev
 ```
+
+### 5. Output
+![Output Image](./images/image-1.png)
+![Output Image](./images/image-2.png)
+![Output Image](./images/image-3.png)
+![Output Image](./images/image-4.png)
+
+
+
